@@ -4,7 +4,7 @@
 
 [![](http://i.imgur.com/VubC6xd.png)](https://www.youtube.com/embed/ytIZbXnNOMM)
 
-## How to use
+## How to use THIS
 
 You can test the functionality with demo content on `index.html`, where you will also find the ‘pretty’ source code for the bookmarklet.
 
