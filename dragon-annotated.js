@@ -1,3 +1,4 @@
+//wtf
 // Let's create some variables we can use later. Since they will all equal nothing right now, we can say they are all equal to zero in one shot.
 var grab=startX=startY=oldTop=oldLeft=0;
 
